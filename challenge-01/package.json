@@ -1,0 +1,24 @@
+{
+	"name": "gostack-challenge-nodejs-01",
+	"version": "1.0.0",
+	"description": "This repository has the challenge (01) from GoStack.",
+	"repository": "https://github.com/rocketseat-gostack/gostack-challenge-nodejs-01.git",
+	"author": "THIAGO DE BONIS CARVALHO SAAD SAUD <https://www.linkedin.com/in/thiagobonisoficial/>",
+	"main": "src/server.js",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"dev": "nodemon",
+		"test": "jest"
+	},
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"uuidv4": "^6.0.7"
+	},
+	"devDependencies": {
+		"jest": "^25.2.6",
+		"nodemon": "^2.0.2",
+		"supertest": "^4.0.2"
+	}
+}
