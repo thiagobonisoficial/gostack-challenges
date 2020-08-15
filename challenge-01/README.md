@@ -3,26 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Gostack Challenge 1: Node.js concepts
+  Gostack Challenge 01: Node.js concepts
 </h3>
 
 <blockquote align="center">“Your only limitation is yourself”!</blockquote>
-
-<p align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/rocketseat-gostack/gostack-challenge-nodejs-01?style=social">
-
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/rocketseat-gostack/gostack-challenge-nodejs-01?style=social">
-</p>
-
-<p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/rocketseat-gostack/gostack-challenge-nodejs-01?color=%2362df5e&logoColor=%2362df5e">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat-gostack/gostack-challenge-nodejs-01?color=%2362df5e&logoColor=%2362df5e">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rocketseat-gostack/gostack-challenge-nodejs-01?color=%2362df5e&logoColor=%2362df5e">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rocketseat-gostack/gostack-challenge-nodejs-01?color=%2362df5e&logoColor=%2362df5e">
-</p>
 
 <p align="center">
   <a href="#rocket-about-the-challenge">About the Challenge</a>&nbsp;&nbsp;&nbsp;

@@ -1,8 +1,8 @@
 {
-	"name": "gostack-challenge-nodejs-01",
+	"name": "challenge-01",
 	"version": "1.0.0",
 	"description": "This repository has the challenge (01) from GoStack.",
-	"repository": "https://github.com/rocketseat-gostack/gostack-challenge-nodejs-01.git",
+	"repository": "https://github.com/thiagobonisoficial/gostack-challenges.git",
 	"author": "THIAGO DE BONIS CARVALHO SAAD SAUD <https://www.linkedin.com/in/thiagobonisoficial/>",
 	"main": "src/server.js",
 	"license": "MIT",
