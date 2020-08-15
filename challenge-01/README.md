@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Gostack Challenge 1: Node.js concepts
+  Gostack Challenge 01: Node.js concepts
 </h3>
 
 <blockquote align="center">“Your only limitation is yourself”!</blockquote>
